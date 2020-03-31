@@ -12,6 +12,7 @@ public class Main {
     System.out.println("Matthew Hurlbut-Coke");
     System.out.println("Cody was gone");
     System.out.println("mpmalone commit");
+    System.out.println("Julia Meisser");
     App.launch(App.class, args);
   }
 }
