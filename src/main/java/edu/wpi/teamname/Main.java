@@ -7,7 +7,7 @@ public class Main {
     System.out.println("Alex was here");
     System.out.println("Matt Tolbert");
     System.out.println("Sylvia Lin");
-    App.launch(App.class, args);
     System.out.println("Claire Sellen");
+    App.launch(App.class, args);
   }
 }
