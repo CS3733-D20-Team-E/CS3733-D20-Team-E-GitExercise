@@ -13,6 +13,7 @@ public class Main {
     System.out.println("Cody was gone");
     System.out.println("mpmalone commit");
     System.out.println("Julia Meisser");
+    System.out.println("Will White was here");
     App.launch(App.class, args);
   }
 }
