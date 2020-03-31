@@ -9,6 +9,7 @@ public class Main {
     System.out.println("Matt Tolbert");
     System.out.println("Sylvia Lin just texted");
     System.out.println("Claire Sellen");
+    System.out.println("Morgan Langstaff");
     App.launch(App.class, args);
   }
 }
