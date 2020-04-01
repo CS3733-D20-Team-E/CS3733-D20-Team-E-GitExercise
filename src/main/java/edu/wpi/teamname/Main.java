@@ -8,7 +8,12 @@ public class Main {
     System.out.println("Matt Tolbert");
     System.out.println("Sylvia Lin just texted");
     System.out.println("Claire Sellen");
-    System.out.println("Matthew Malone was here.");
+    System.out.println("Morgan Langstaff");
+    System.out.println("Matthew Hurlbut-Coke");
+    System.out.println("Cody was gone");
+    System.out.println("mpmalone commit");
+    System.out.println("Julia Meisser");
+    System.out.println("Will White was here");
     App.launch(App.class, args);
   }
 }
